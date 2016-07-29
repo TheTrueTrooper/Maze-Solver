@@ -1,0 +1,24 @@
+C:\Users\Asanches2\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\bin\Debug\AngeloSanches_CMPE2300_Lab1.exe.config
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\bin\Debug\AngeloSanches_CMPE2300_Lab1.exe.config
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.MazeSolver.resources
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.Properties.Resources.resources
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.csproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\bin\Debug\AngeloSanches_CMPE2300_Lab1.exe
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\bin\Debug\AngeloSanches_CMPE2300_Lab1.pdb
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\bin\Debug\GDIDrawer.dll
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.exe
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.pdb
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\bin\Debug\AngeloSanches_CMPE2300_Lab1.exe.config
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.exe
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.pdb
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.MazeSolver.resources
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.Properties.Resources.resources
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.csproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\bin\Debug\AngeloSanches_CMPE2300_Lab1.exe
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\bin\Debug\AngeloSanches_CMPE2300_Lab1.pdb
+C:\Users\Angelo\Desktop\AngeloSanches_CMPE2300_Lab1 - Copy\AngeloSanches_CMPE2300_Lab1\bin\Debug\GDIDrawer.dll
+C:\Users\Angelo\Desktop\CMPE2300\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\bin\Debug\AngeloSanches_CMPE2300_Lab1.exe.config
+C:\Users\Angelo\Desktop\CMPE2300\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.exe
+C:\Users\Angelo\Desktop\CMPE2300\AngeloSanches_CMPE2300_Lab1\AngeloSanches_CMPE2300_Lab1\obj\Debug\AngeloSanches_CMPE2300_Lab1.pdb
